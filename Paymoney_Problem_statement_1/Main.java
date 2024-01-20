@@ -1,4 +1,4 @@
-package paymoney.tgt.determinator;
+package Paymoney_Problem_statement_1;
 
 public class Main {
 
